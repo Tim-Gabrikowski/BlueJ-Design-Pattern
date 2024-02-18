@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WindspeedDisplay
+comment0.text=\r\n\ Eine\ Temperaturanzeige\r\n\ \r\n\ @author\ Tim\ Gabrikowski\ \r\n\ @version\ 18.02.2024\r\n
+comment1.params=station
+comment1.target=WindspeedDisplay(SensorStation)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

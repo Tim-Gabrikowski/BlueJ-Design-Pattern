@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WeatherData
+comment0.text=\r\n\ Wetterdaten\ Container\r\n\ \r\n\ @author\ Tim\ Gabrikowski\ \r\n\ @version\ 18.02.2024\r\n
+comment1.params=tmp\ hum\ wsp
+comment1.target=WeatherData(float,\ float,\ float)
+comment2.params=
+comment2.target=float\ getTemperature()
+comment3.params=
+comment3.target=float\ getHumidity()
+comment4.params=
+comment4.target=float\ getWindspeed()
+numComments=5

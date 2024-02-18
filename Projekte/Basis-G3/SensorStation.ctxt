@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SensorStation
+comment0.text=\r\n\ Eine\ Sensorstation,\ die\ als\ Subjekt\ dienen\ soll\ und\ somit\ Wetterdaten\ speichert\ und\ ver\u00E4ndert\r\n\ \r\n\ @author\ Tim\ Gabrikowski\ \r\n\ @version\ 18.02.2024\r\n
+comment1.params=
+comment1.target=SensorStation()
+comment2.params=t\ h\ w
+comment2.target=void\ changeWeather(float,\ float,\ float)
+numComments=3

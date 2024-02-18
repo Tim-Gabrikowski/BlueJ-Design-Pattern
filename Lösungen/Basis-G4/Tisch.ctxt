@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tisch
+comment0.text=\r\n\ Ein\ Tisch,\ der\ manipuliert\ werden\ kann\ und\ sich\ selbst\ auf\ einer\ Leinwand\ zeichnet.\r\n\ \r\n\ @author\ Claus\ Albowski\r\n\ @version\ 2.3\ \ (sept\ 07)\r\n
+comment1.params=
+comment1.target=Tisch()
+comment1.text=\r\n\ Erzeuge\ einen\ neuen\ Tisch\ mit\ einer\ Standardfarbe\ und\ Standardgroesse\r\n\ an\ einer\ Standardposition.\ (Standardkonstruktor)\r\n
+comment2.params=xPosition\ yPosition\ farbe\ orientierung\ breite\ tiefe
+comment2.target=Tisch(int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment2.text=\r\n\ Erzeuge\ einen\ neuen\ Tisch.\r\n
+comment3.params=
+comment3.target=java.awt.Shape\ gibAktuelleFigur()
+comment3.text=\r\n\ Berechnet\ das\ zu\ zeichnende\ Shape\ anhand\ der\ gegebenen\ Daten\r\n\ [\ Zum\ Anzeigen\ der\ Attributwerte\ \u00FCber\ Inspect\ muss\ hier\ die\ Sichtbarkeit\ \r\n\ \ auf\ public\ gesetzt\ werden.\ ]\r\n
+numComments=4

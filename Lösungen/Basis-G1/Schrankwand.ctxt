@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Schrankwand
+comment0.text=\r\n\ Eine\ Schrankwand,\ die\ manipuliert\ werden\ kann\ und\ sich\ selbst\ auf\ einer\ Leinwand\ zeichnet.\r\n
+comment1.params=anzahl
+comment1.target=Schrankwand(int)
+comment1.text=\r\n\ Erzeuge\ eine\ neue\ Schrankwand\ mit\ einer\ Standardfarbe\ und\ Standardgroesse\r\n\ an\ einer\ Standardposition.\r\n\ Der\ Konstruktor\ muss\ die\ Zahl\ der\ Schr\u00E4nke\ \u00FCbergeben\ bekommen.\r\n
+comment2.params=
+comment2.target=java.awt.Shape\ gibAktuelleFigur()
+comment2.text=\r\n\ Berechnet\ das\ zu\ zeichnende\ Shape\ anhand\ der\ gegebenen\ Daten\r\n
+numComments=3
