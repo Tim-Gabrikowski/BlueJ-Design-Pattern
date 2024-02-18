@@ -1,4 +1,4 @@
-# BLueJ-Design-Pattern
+# BlueJ-Design-Pattern
 
 Bearbeitet in Gruppen die Aufgaben zu diesen Pattern. Hilfestellungen und Codebeispiele sind angegeben. Bei Fragen fragen!
 
