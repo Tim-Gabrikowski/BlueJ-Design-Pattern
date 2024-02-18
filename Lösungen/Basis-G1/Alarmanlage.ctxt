@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Alarmanlage
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Alarmanlage.\r\n\ \r\n\ @author\ Tim\ Gabrikowski\r\n\ @version\ 18.02.2024\r\n
+comment1.params=
+comment1.target=Alarmanlage\ getInstance()
+comment2.params=
+comment2.target=Alarmanlage()
+comment3.params=
+comment3.target=void\ arm()
+comment4.params=
+comment4.target=void\ dearm()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DirEntry
+comment0.text=\r\n\ Eintrag\ im\ Dateisystem\r\n\ \r\n\ @author\ Tim\ Gabrikowski\ \r\n\ @version\ 18.-02.2024\r\n
+comment1.params=name
+comment1.target=DirEntry(java.lang.String)
+comment2.params=entry
+comment2.target=void\ addChild(DirEntry)
+comment3.params=lvl
+comment3.target=void\ print(int)
+numComments=4
