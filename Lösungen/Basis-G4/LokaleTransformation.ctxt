@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LokaleTransformation
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ LokaleTransformation.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=x\ y\ p
+comment1.target=LokaleTransformation(int,\ int,\ Transformation)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ LokaleTransformation\r\n
+comment2.params=
+comment2.target=int\ getGlobalX()
+comment3.params=
+comment3.target=int\ getGlobalY()
+numComments=4

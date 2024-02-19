@@ -1,10 +1,12 @@
 #BlueJ class context
 comment0.target=Schrank
-comment0.text=\r\n\ Ein\ Schrank,\ der\ manipuliert\ werden\ kann\ und\ sich\ selbst\ auf\ einer\ Leinwand\ zeichnet.\r\n\ \r\n\ @author\ Java-MS\ Groupies\r\n\ hier\ claus\ albowski\r\n\ Michael\ K\u00F6lling\ und\ David\ J.\ Barnes\ und\ Axel\ Schmolitzky\r\n\ @version\ 1.2\ \ (25.02.04)\r\n
-comment1.params=x\ y\ f\ o\ b\ t
-comment1.target=Schrank(int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ Ein\ Schrank,\ der\ manipuliert\ werden\ kann\ und\ sich\ selbst\ auf\ einer\ Leinwand\ zeichnet.\r\n\ \r\n\ @author\ Java-MS\ Groupies\r\n\ hier\ claus\ albowski\r\n\ Michael\ K\u00EF\u00BF\u00BDlling\ und\ David\ J.\ Barnes\ und\ Axel\ Schmolitzky\r\n\ @version\ 1.2\ \ (25.02.04)\r\n
+comment1.params=
+comment1.target=Schrank()
 comment1.text=\r\n\ Erzeuge\ einen\ neuen\ Schrank.\r\n
-comment2.params=
-comment2.target=java.awt.Shape\ gibAktuelleFigur()
-comment2.text=\r\n\ Berechnet\ das\ zu\ zeichnende\ Shape\ anhand\ der\ gegebenen\ Daten\r\n
-numComments=3
+comment2.params=x\ y\ f\ o\ b\ t
+comment2.target=Schrank(int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.awt.Shape\ gibAktuelleFigur()
+comment3.text=\r\n\ Berechnet\ das\ zu\ zeichnende\ Shape\ anhand\ der\ gegebenen\ Daten\r\n
+numComments=4

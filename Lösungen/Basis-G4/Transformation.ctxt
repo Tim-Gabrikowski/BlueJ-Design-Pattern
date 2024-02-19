@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Transformation
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Transformation.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=x\ y
+comment1.target=Transformation(int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Transformation\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+numComments=4
