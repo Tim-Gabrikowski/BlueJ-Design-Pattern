@@ -9,7 +9,7 @@ import java.awt.geom.Line2D;
  * 
  * @author Java-MS Groupies
  * hier claus albowski
- * Michael Kölling und David J. Barnes und Axel Schmolitzky
+ * Michael Kï¿½lling und David J. Barnes und Axel Schmolitzky
  * @version 1.2  (25.02.04)
  */
 public class Schrank extends Moebel
@@ -18,6 +18,16 @@ public class Schrank extends Moebel
   /**
    * Erzeuge einen neuen Schrank.
    */
+    public Schrank()
+  {
+    xPosition = 60;
+    yPosition = 80;
+    farbe = "rot";
+    orientierung = 0;
+    istSichtbar = false;
+    breite = 100;
+    tiefe  = 60;
+  }
     public Schrank(int x, int y, String f, int o, int b, int t)
   {
     xPosition = x;
